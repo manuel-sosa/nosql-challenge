@@ -13,7 +13,7 @@
 This challenge provides hands-on experience with MongoDB for **data management and analysis**, emphasizing practical skills in database operations, data manipulation, and **analytical thinking**. 
 
 ## :bar_chart: Jupyter Notebooks Created
-- **Starter_Code**
+- **Starter_Code folder**
   - NoSQL_setup_starter.ipynb [(Link)](https://github.com/manuel-sosa/nosql-challenge/blob/main/Starter_Code/NoSQL_setup_starter.ipynb)
   - NoSQL_analysis_starter.ipynb [(Link)](https://github.com/manuel-sosa/nosql-challenge/blob/main/Starter_Code/NoSQL_analysis_starter.ipynb)
 
